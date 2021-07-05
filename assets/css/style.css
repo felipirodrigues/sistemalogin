@@ -1,0 +1,61 @@
+.menusuperior{
+    height: 40px;
+    width: 100%;
+    border-bottom: 1px solid #eee;    
+}
+.menusuperior-direito{
+    max-width: 1000px;
+    margin: auto;
+    line-height: 40px;
+}
+.menusuperior-direito li{
+    float: right;
+    list-style: none;
+    padding-left: 10px;
+}
+.menusuperior-direito li a{
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 20px;
+}
+.conteudo{
+    width: 100%;
+}
+.conteudo-interno{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+    background-color: darkturquoise;
+    line-height: 400px;
+    color: #fff;
+    text-align: center;
+}
+.form-login{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+    background-color: darkturquoise;
+    color: #fff;
+}
+.form-login form{
+   padding-top: 50px;
+   text-align: center;
+}
+.area-conteudo{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+    background-color: darkturquoise;
+    color: #fff;
+    padding-top: 50px;
+    text-align: center;
+}
+.area-conteudo a{
+    color: floralwhite;
+    text-decoration: none;
+    margin-top: 40px;
+}
+.area-conteudo a:hover{
+    background-color: floralwhite;
+    color: darkturquoise;
+}
